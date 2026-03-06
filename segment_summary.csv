@@ -1,0 +1,8 @@
+Segment,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Revenue,Churn_Rate_Pct,Revenue_At_Risk
+At Risk,496,308.0,5.28,2153.05,1067915.1,100.0,1067915.1
+Cannot Lose Them,245,502.27,4.45,1522.04,372898.66,100.0,372898.66
+Champions,1193,20.28,16.81,8281.91,9880315.78,0.0,0.0
+Lost,1393,461.64,1.25,395.23,550557.23,100.0,550557.23
+Loyal Customers,1276,73.03,5.47,1821.14,2323770.28,32.7,973054.63
+New Customers,402,28.67,1.47,902.47,362794.89,0.0,0.0
+Potential Loyalists,345,110.91,1.37,477.96,164895.58,53.9,81499.07
