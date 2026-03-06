@@ -133,7 +133,7 @@ The project includes a 2-page interactive Power BI dashboard:
 - Monthly Revenue Trend (line chart)
 - Active vs Churned split (donut chart)
 
-![Executive Summary](images/page1_executive_summary.png)
+![Executive Summary](Images/Page1_Executive_Summary.png)
 
 **Page 2 — Customer Segments**
 - Customers per segment (bar chart)
@@ -141,7 +141,7 @@ The project includes a 2-page interactive Power BI dashboard:
 - Churn rate by segment (bar chart)
 - Full segment summary table
 
-![Customer Segments](images/page2_segments.png)
+![Customer Segments](Images/page2_Segments.png)
 
 ---
 
